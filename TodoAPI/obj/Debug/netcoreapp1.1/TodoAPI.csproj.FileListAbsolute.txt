@@ -1,0 +1,9 @@
+c:\users\taylo\onedrive\documents\visual studio 2017\Projects\TodoAPI\TodoAPI\bin\Debug\netcoreapp1.1\TodoAPI.deps.json
+c:\users\taylo\onedrive\documents\visual studio 2017\Projects\TodoAPI\TodoAPI\bin\Debug\netcoreapp1.1\TodoAPI.runtimeconfig.json
+c:\users\taylo\onedrive\documents\visual studio 2017\Projects\TodoAPI\TodoAPI\bin\Debug\netcoreapp1.1\TodoAPI.runtimeconfig.dev.json
+c:\users\taylo\onedrive\documents\visual studio 2017\Projects\TodoAPI\TodoAPI\bin\Debug\netcoreapp1.1\TodoAPI.dll
+c:\users\taylo\onedrive\documents\visual studio 2017\Projects\TodoAPI\TodoAPI\obj\Debug\netcoreapp1.1\TodoAPI.csprojResolveAssemblyReference.cache
+c:\users\taylo\onedrive\documents\visual studio 2017\Projects\TodoAPI\TodoAPI\obj\Debug\netcoreapp1.1\TodoAPI.AssemblyInfo.cs
+c:\users\taylo\onedrive\documents\visual studio 2017\Projects\TodoAPI\TodoAPI\bin\Debug\netcoreapp1.1\TodoAPI.pdb
+c:\users\taylo\onedrive\documents\visual studio 2017\Projects\TodoAPI\TodoAPI\obj\Debug\netcoreapp1.1\TodoAPI.dll
+c:\users\taylo\onedrive\documents\visual studio 2017\Projects\TodoAPI\TodoAPI\obj\Debug\netcoreapp1.1\TodoAPI.pdb
